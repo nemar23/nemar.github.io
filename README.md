@@ -8,4 +8,6 @@ Vou escrever mais coisas, como meu conhecimento tecnico
 
 As minhas experimentações
 
+### Correções da Branch HOTFIX
+    branch criada da master
 
