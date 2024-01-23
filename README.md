@@ -8,5 +8,4 @@ Vou escrever mais coisas, como meu conhecimento tecnico
 
 As minhas experimentações
 
-adfjlkhlahjdeaeasdfaçlkjçls
 
